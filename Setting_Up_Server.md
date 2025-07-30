@@ -12,7 +12,7 @@ tags:
   - Ngrok
   - Development Environment
   - Networking
-featured: true
+featured: false
 ---
 
 # Setting Up a Temporary Web Server for Project Demonstration
